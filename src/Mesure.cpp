@@ -8,7 +8,9 @@ version 2.1 of the License, or (at your option) any later version.
 See file LICENSE.txt for further informations on licensing terms.
 */
 #include <Mesure.h>
+#ifndef MatrixMath_h
 #include <MatrixMath.h>
+#endif
 
 using namespace std;
 
